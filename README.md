@@ -5,8 +5,8 @@ I am Sachin Ramesh Joshi, hardcore CODER 💻 and having 🔥 passion about exis
 
 
 > **About Me** 
--I love to learn new things.
--Enjoy cracking puzzles & problem statements.
+- I love to learn new things.
+- Enjoy cracking puzzles & problem statements.
 
 
 ### Languages
