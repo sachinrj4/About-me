@@ -10,9 +10,9 @@ I am Sachin Ramesh Joshi, hardcore CODER 💻 and having 🔥 passion about exis
 </p>
 
 > **About Me** 
-> -I love to learn new things.
+-I love to learn new things.
 -Enjoy cracking puzzles & problem statements.
-'''
+
 
 ### Languages
 
