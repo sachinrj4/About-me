@@ -1,5 +1,5 @@
 # About-me
 Hello folks,
 
-I am Sachin Ramesh Joshi, hardcore CODER and passionate about upcoming technologies.
+I am Sachin Ramesh Joshi, hardcore CODER 💻 and having 🔥 passion about existing & fabricating technologies.
 
